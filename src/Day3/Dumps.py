@@ -21,7 +21,7 @@ import json
 name_dict = {'name':'maomao','age':23}
 print json.dumps(name_dict)
 print json.loads(json.dumps(name_dict))
-
+#测试测试，嘿嘿
 
 import re
 
